@@ -1,3 +1,6 @@
+/* Copyright (C) 2016 Seyed Matin Mazloom Nezhad - All Rights Reserved
+ * You may use, distribute and modify this code
+ */
 #include <Adafruit_GFX.h> // Hardware-specific library
 #include <MCUFRIEND_kbv.h>
 MCUFRIEND_kbv tft;
